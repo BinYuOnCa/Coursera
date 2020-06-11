@@ -24,10 +24,10 @@ The results is reported as the accuracy of each classifier, using the following 
 
 **My Submission**
 
-Below  please find m
+Below  please find my submission:
 
-[Jupyter notebook]()
-[Markdown verion]()
+[Jupyter notebook](./IBM_DataScience/MachineLearningwithPython/ML0101EN-Proj-Loan-py-v1.ipynb)
+[Markdown verion](./IBM_DataScience/MachineLearningwithPython/ML0101EN-Proj-Loan-py-v1.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDIxNDQ3Ml19
+eyJoaXN0b3J5IjpbMTc0OTU1MTMyNF19
 -->
