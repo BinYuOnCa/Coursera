@@ -5,7 +5,7 @@ This folder holds the exercises, assignments, notes and projects for my courses 
 
 #### Machine Learning with Python 
 
-**Peer-graded Assignment: The best classifier**
+**(1) Peer-graded Assignment: The best classifier**
 
 In this project, you will complete a notebook where you will build a classifier to predict whether a loan case will be paid off or not.
 
@@ -21,6 +21,13 @@ The results is reported as the accuracy of each classifier, using the following 
 -   Jaccard index
 -   F1-score
 -   LogLoass
+
+**My Submission**
+
+Below  please find m
+
+[Jupyter notebook]()
+[Markdown verion]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NTgwNzU3XX0=
+eyJoaXN0b3J5IjpbMTA2MDIxNDQ3Ml19
 -->
