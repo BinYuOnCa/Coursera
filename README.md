@@ -1,8 +1,10 @@
 ## Coursera
-This folder holds the exercise, assignment, notes for my courses taken on coursera.org. 
+This folder holds the exercises, assignments, notes and projects for my courses taken on coursera.org. 
 
-##＃ IBM Data Science
+### IBM Data Science
+
+#### Machine Learning with Python 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY5NzcwNjldfQ==
+eyJoaXN0b3J5IjpbLTIxMTkzMTkwMDFdfQ==
 -->
