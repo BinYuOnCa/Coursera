@@ -1,7 +1,7 @@
 ## Coursera
 This folder holds the exercises, assignments, notes and projects for my courses taken on coursera.org. 
 
-### IBM Data Science
+### 1. IBM Data Science
 
 #### Machine Learning with Python 
 
@@ -22,5 +22,5 @@ The results is reported as the accuracy of each classifier, using the following 
 -   F1-score
 -   LogLoass
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzMwMjczNF19
+eyJoaXN0b3J5IjpbNzM0NTgwNzU3XX0=
 -->
